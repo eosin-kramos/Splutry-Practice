@@ -4,11 +4,12 @@
     "\\app",
     "\\app\\assets",
     "\\app\\assets\\javascripts",
+    "\\app\\assets\\stylesheets",
     "\\app\\controllers",
     "\\app\\views",
     "\\app\\views\\layouts",
     "\\app\\views\\quotes"
   ],
-  "SelectedNode": "\\app\\controllers\\quotes_controller.rb",
+  "SelectedNode": "\\app\\views\\layouts\\application.html.erb",
   "PreviewInSolutionExplorer": false
 }
